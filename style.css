@@ -69,7 +69,9 @@ width: 50px;
     flex-direction: column;
     justify-content: center;
 } 
-.last{
+.last button{
+     cursor: pointer;
+    color: white;
 background-color: green;
 width: 53vw;
 height:40px;
